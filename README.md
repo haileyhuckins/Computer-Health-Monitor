@@ -29,6 +29,11 @@ Run the program with:
 
 python Computer_Health.py
 
+## Program Results
+
+[Computer_Health.pdf](https://github.com/user-attachments/files/31489668/Computer_Health.pdf)
+
+
 ## Author
 
 Hailey Huckins
